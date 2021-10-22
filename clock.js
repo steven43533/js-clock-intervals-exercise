@@ -29,7 +29,7 @@ const secondRotation = () => {
 
 const secondsHand = setInterval(secondRotation, 1000);
 const minutesHand = setInterval(minuteRotation, 60000);
-const hourHands = setInterval(hourRotation, 1000* 60*60);
+const hourHands = setInterval(hourRotation, 1000*60*60);
 
 
 
